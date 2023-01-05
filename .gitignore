@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Secrets
+.secrets
+
+# Terraform state
+.terraform*
+terraform.tfstate*
+terraform.tfvars
+
+# IDE
+.vscode
