@@ -138,3 +138,7 @@ terraform.tfvars
 
 # IDE
 .vscode
+
+# Node stuff
+node_modules
+.envVars
